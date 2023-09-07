@@ -4,19 +4,22 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace subject1
+namespace subject2
 {
-    internal class Lingkaran
+    internal class PersegiPanjang
     {
         public static void Calculate()
         {
-            int ruas;
+            int panjang, lebar;
             double luas;
 
-            ruas = 14;
-            luas = 3.14 * (ruas * ruas);
+            panjang = InputUtil.InputInteger("Panjang");
+            lebar = InputUtil.InputInteger("Lebar");
 
+            luas = 0.5 * panjang * lebar;
             Console.WriteLine("Luas: " + luas);
         }
+
+        
     }
 }
