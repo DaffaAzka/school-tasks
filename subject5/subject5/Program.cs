@@ -1,4 +1,4 @@
-﻿internal class Program
+﻿ internal class Program
 {
     private static void Main(string[] args)
     {
@@ -22,14 +22,17 @@
         nilaiSemester = InputInteger("Semester");
 
         hasil = (nilaiTugas + nilaiUTS + nilaiSemester) / 3;
-        if (hasil >= 70.0)
+        if (hasil >= 50.0)
         {
             Console.WriteLine("Keterangan: Lulus");
             Console.WriteLine("Pesan: Selamat " + nama + ", Anda Lulus Dengan nilai " + hasil);
+        } else if(hasil >= 20.0)
+        {
+            Console.WriteLine("Keterangan: Remedial");
+            Console.WriteLine("Pesan: Mohon Maaf " + nama + ", Anda Gagal Dengan nilai " + hasil);
         } else
         {
-            Console.WriteLine("Keterangan: Gagal");
-            Console.WriteLine("Pesan: Mohon Maaf " + nama + ", Anda Gagal Dengan nilai " + hasil);
+            Console.WriteLine("Goblok");
         }
 
     }
