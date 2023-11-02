@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\Sekumlah\\X\\subject6\\subject6\\subject6.csproj": {}
+    "E:\\Data\\Programming\\Sekumlah\\X\\subject6\\subject6\\subject6.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\Sekumlah\\X\\subject6\\subject6\\subject6.csproj": {
+    "E:\\Data\\Programming\\Sekumlah\\X\\subject6\\subject6\\subject6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\Sekumlah\\X\\subject6\\subject6\\subject6.csproj",
+        "projectUniqueName": "E:\\Data\\Programming\\Sekumlah\\X\\subject6\\subject6\\subject6.csproj",
         "projectName": "subject6",
-        "projectPath": "D:\\Programming\\Sekumlah\\X\\subject6\\subject6\\subject6.csproj",
+        "projectPath": "E:\\Data\\Programming\\Sekumlah\\X\\subject6\\subject6\\subject6.csproj",
         "packagesPath": "C:\\Users\\daffa\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\Sekumlah\\X\\subject6\\subject6\\obj\\",
+        "outputPath": "E:\\Data\\Programming\\Sekumlah\\X\\subject6\\subject6\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
