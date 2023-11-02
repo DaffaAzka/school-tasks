@@ -1,0 +1,14 @@
+E:\Data\Programming\Sekumlah\X\subject10\subject10\bin\Debug\net6.0\subject10.exe
+E:\Data\Programming\Sekumlah\X\subject10\subject10\bin\Debug\net6.0\subject10.deps.json
+E:\Data\Programming\Sekumlah\X\subject10\subject10\bin\Debug\net6.0\subject10.runtimeconfig.json
+E:\Data\Programming\Sekumlah\X\subject10\subject10\bin\Debug\net6.0\subject10.dll
+E:\Data\Programming\Sekumlah\X\subject10\subject10\bin\Debug\net6.0\subject10.pdb
+E:\Data\Programming\Sekumlah\X\subject10\subject10\obj\Debug\net6.0\subject10.GeneratedMSBuildEditorConfig.editorconfig
+E:\Data\Programming\Sekumlah\X\subject10\subject10\obj\Debug\net6.0\subject10.AssemblyInfoInputs.cache
+E:\Data\Programming\Sekumlah\X\subject10\subject10\obj\Debug\net6.0\subject10.AssemblyInfo.cs
+E:\Data\Programming\Sekumlah\X\subject10\subject10\obj\Debug\net6.0\subject10.csproj.CoreCompileInputs.cache
+E:\Data\Programming\Sekumlah\X\subject10\subject10\obj\Debug\net6.0\subject10.dll
+E:\Data\Programming\Sekumlah\X\subject10\subject10\obj\Debug\net6.0\refint\subject10.dll
+E:\Data\Programming\Sekumlah\X\subject10\subject10\obj\Debug\net6.0\subject10.pdb
+E:\Data\Programming\Sekumlah\X\subject10\subject10\obj\Debug\net6.0\subject10.genruntimeconfig.cache
+E:\Data\Programming\Sekumlah\X\subject10\subject10\obj\Debug\net6.0\ref\subject10.dll
