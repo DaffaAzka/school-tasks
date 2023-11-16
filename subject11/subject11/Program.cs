@@ -37,7 +37,7 @@
             Console.WriteLine(i);
             i += 2;
         }
-    }
+    } 
 
     private static void task3()
     {
@@ -45,7 +45,7 @@
         while (i > 10)
         {
             Console.WriteLine(i);
-            i -= 2;
+            i -= 2/;
         }
     }
 }
