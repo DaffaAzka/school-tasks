@@ -1,0 +1,15 @@
+D:\Programming\Sekumlah\X\Biodata\Biodata\bin\Debug\net6.0\Biodata.exe
+D:\Programming\Sekumlah\X\Biodata\Biodata\bin\Debug\net6.0\Biodata.deps.json
+D:\Programming\Sekumlah\X\Biodata\Biodata\bin\Debug\net6.0\Biodata.runtimeconfig.json
+D:\Programming\Sekumlah\X\Biodata\Biodata\bin\Debug\net6.0\Biodata.dll
+D:\Programming\Sekumlah\X\Biodata\Biodata\bin\Debug\net6.0\Biodata.pdb
+D:\Programming\Sekumlah\X\Biodata\Biodata\obj\Debug\net6.0\Biodata.csproj.AssemblyReference.cache
+D:\Programming\Sekumlah\X\Biodata\Biodata\obj\Debug\net6.0\Biodata.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Sekumlah\X\Biodata\Biodata\obj\Debug\net6.0\Biodata.AssemblyInfoInputs.cache
+D:\Programming\Sekumlah\X\Biodata\Biodata\obj\Debug\net6.0\Biodata.AssemblyInfo.cs
+D:\Programming\Sekumlah\X\Biodata\Biodata\obj\Debug\net6.0\Biodata.csproj.CoreCompileInputs.cache
+D:\Programming\Sekumlah\X\Biodata\Biodata\obj\Debug\net6.0\Biodata.dll
+D:\Programming\Sekumlah\X\Biodata\Biodata\obj\Debug\net6.0\refint\Biodata.dll
+D:\Programming\Sekumlah\X\Biodata\Biodata\obj\Debug\net6.0\Biodata.pdb
+D:\Programming\Sekumlah\X\Biodata\Biodata\obj\Debug\net6.0\Biodata.genruntimeconfig.cache
+D:\Programming\Sekumlah\X\Biodata\Biodata\obj\Debug\net6.0\ref\Biodata.dll

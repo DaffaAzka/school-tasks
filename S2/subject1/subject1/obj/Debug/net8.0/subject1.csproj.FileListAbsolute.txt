@@ -1,0 +1,15 @@
+E:\Programming\2024\CShap\school-tasks\S2\subject1\subject1\bin\Debug\net8.0\subject1.exe
+E:\Programming\2024\CShap\school-tasks\S2\subject1\subject1\bin\Debug\net8.0\subject1.deps.json
+E:\Programming\2024\CShap\school-tasks\S2\subject1\subject1\bin\Debug\net8.0\subject1.runtimeconfig.json
+E:\Programming\2024\CShap\school-tasks\S2\subject1\subject1\bin\Debug\net8.0\subject1.dll
+E:\Programming\2024\CShap\school-tasks\S2\subject1\subject1\bin\Debug\net8.0\subject1.pdb
+E:\Programming\2024\CShap\school-tasks\S2\subject1\subject1\obj\Debug\net8.0\subject1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\2024\CShap\school-tasks\S2\subject1\subject1\obj\Debug\net8.0\subject1.AssemblyInfoInputs.cache
+E:\Programming\2024\CShap\school-tasks\S2\subject1\subject1\obj\Debug\net8.0\subject1.AssemblyInfo.cs
+E:\Programming\2024\CShap\school-tasks\S2\subject1\subject1\obj\Debug\net8.0\subject1.csproj.CoreCompileInputs.cache
+E:\Programming\2024\CShap\school-tasks\S2\subject1\subject1\obj\Debug\net8.0\subject1.sourcelink.json
+E:\Programming\2024\CShap\school-tasks\S2\subject1\subject1\obj\Debug\net8.0\subject1.dll
+E:\Programming\2024\CShap\school-tasks\S2\subject1\subject1\obj\Debug\net8.0\refint\subject1.dll
+E:\Programming\2024\CShap\school-tasks\S2\subject1\subject1\obj\Debug\net8.0\subject1.pdb
+E:\Programming\2024\CShap\school-tasks\S2\subject1\subject1\obj\Debug\net8.0\subject1.genruntimeconfig.cache
+E:\Programming\2024\CShap\school-tasks\S2\subject1\subject1\obj\Debug\net8.0\ref\subject1.dll

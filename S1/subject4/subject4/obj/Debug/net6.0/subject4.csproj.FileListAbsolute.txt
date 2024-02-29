@@ -1,0 +1,14 @@
+D:\Programming\Sekumlah\X\subject4\subject4\obj\Debug\net6.0\subject4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Sekumlah\X\subject4\subject4\obj\Debug\net6.0\subject4.AssemblyInfoInputs.cache
+D:\Programming\Sekumlah\X\subject4\subject4\obj\Debug\net6.0\subject4.AssemblyInfo.cs
+D:\Programming\Sekumlah\X\subject4\subject4\obj\Debug\net6.0\subject4.csproj.CoreCompileInputs.cache
+D:\Programming\Sekumlah\X\subject4\subject4\bin\Debug\net6.0\subject4.exe
+D:\Programming\Sekumlah\X\subject4\subject4\bin\Debug\net6.0\subject4.deps.json
+D:\Programming\Sekumlah\X\subject4\subject4\bin\Debug\net6.0\subject4.runtimeconfig.json
+D:\Programming\Sekumlah\X\subject4\subject4\bin\Debug\net6.0\subject4.dll
+D:\Programming\Sekumlah\X\subject4\subject4\bin\Debug\net6.0\subject4.pdb
+D:\Programming\Sekumlah\X\subject4\subject4\obj\Debug\net6.0\subject4.dll
+D:\Programming\Sekumlah\X\subject4\subject4\obj\Debug\net6.0\refint\subject4.dll
+D:\Programming\Sekumlah\X\subject4\subject4\obj\Debug\net6.0\subject4.pdb
+D:\Programming\Sekumlah\X\subject4\subject4\obj\Debug\net6.0\subject4.genruntimeconfig.cache
+D:\Programming\Sekumlah\X\subject4\subject4\obj\Debug\net6.0\ref\subject4.dll
