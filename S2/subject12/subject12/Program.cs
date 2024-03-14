@@ -4,11 +4,13 @@
     {
         string[] names = new string[5];
         string[] numbers = new string[5];
+        int[] values = new int[5];
 
         for (int i = 0; i < names.Length; i++)
         { 
             names[i] = Input($"Masukan nama[{i}]");
             numbers[i] = Input($"Masukan nomor ujian[{i}]");
+            values[i] = int.Parse(Input($"Masukan nilai ujian[{i}]"));
         }
 
         string[] tahun = new string[5];
@@ -42,17 +44,41 @@
         }
 
         Console.WriteLine("Daftar Peserta Ujian");
-        Console.WriteLine("No   Nama    Tahun Masuk     Jenis Kelamin   Jurusan");
+        Console.WriteLine("No   Nama    Tahun Masuk     Jenis Kelamin   Jurusan     Nilai");
         Console.WriteLine("====================================================================");
 
         for (int i = 0; i < numbers.Length; i++)
         {
-            Console.WriteLine($"{i}   {names[i]}        {tahun[i]}          {gender[i]}         {jurusan[i]}");
+            Console.WriteLine($"{i}   {names[i]}        {tahun[i]}          {gender[i]}         {jurusan[i]}    {values[i]}");
         }
 
         Console.WriteLine("====================================================================");
- 
 
+        int get = getBigValue(values);
+        Console.WriteLine($"Nilai Terbesar adalah {values[get]} yang didapatkan oleh {names[get]} jurusan {jurusan[get]}");
+
+    }
+
+    private static int getBigValue(int[] arr)
+    {
+        int x = 0;
+        for (int i = 0; i < arr.Length; i++)
+        {
+            if (x < arr[i])
+            {
+                x = arr[i];
+            }
+        }
+
+        for (int i = 0; i < arr.Length; i++)
+        {
+            if (x == arr[i])
+            {
+                x = i;
+            }
+        }
+
+        return x;
     }
 
     private static string Input(string s)

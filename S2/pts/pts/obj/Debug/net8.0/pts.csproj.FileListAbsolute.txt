@@ -1,0 +1,15 @@
+D:\Programming\2024\CShap\school-tasks\S2\pts\pts\bin\Debug\net8.0\pts.exe
+D:\Programming\2024\CShap\school-tasks\S2\pts\pts\bin\Debug\net8.0\pts.deps.json
+D:\Programming\2024\CShap\school-tasks\S2\pts\pts\bin\Debug\net8.0\pts.runtimeconfig.json
+D:\Programming\2024\CShap\school-tasks\S2\pts\pts\bin\Debug\net8.0\pts.dll
+D:\Programming\2024\CShap\school-tasks\S2\pts\pts\bin\Debug\net8.0\pts.pdb
+D:\Programming\2024\CShap\school-tasks\S2\pts\pts\obj\Debug\net8.0\pts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\2024\CShap\school-tasks\S2\pts\pts\obj\Debug\net8.0\pts.AssemblyInfoInputs.cache
+D:\Programming\2024\CShap\school-tasks\S2\pts\pts\obj\Debug\net8.0\pts.AssemblyInfo.cs
+D:\Programming\2024\CShap\school-tasks\S2\pts\pts\obj\Debug\net8.0\pts.csproj.CoreCompileInputs.cache
+D:\Programming\2024\CShap\school-tasks\S2\pts\pts\obj\Debug\net8.0\pts.sourcelink.json
+D:\Programming\2024\CShap\school-tasks\S2\pts\pts\obj\Debug\net8.0\pts.dll
+D:\Programming\2024\CShap\school-tasks\S2\pts\pts\obj\Debug\net8.0\refint\pts.dll
+D:\Programming\2024\CShap\school-tasks\S2\pts\pts\obj\Debug\net8.0\pts.pdb
+D:\Programming\2024\CShap\school-tasks\S2\pts\pts\obj\Debug\net8.0\pts.genruntimeconfig.cache
+D:\Programming\2024\CShap\school-tasks\S2\pts\pts\obj\Debug\net8.0\ref\pts.dll
